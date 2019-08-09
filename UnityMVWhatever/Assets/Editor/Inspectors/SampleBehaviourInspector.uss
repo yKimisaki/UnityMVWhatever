@@ -1,0 +1,10 @@
+﻿PropertyField {
+    font-size: 30;
+    font-weight: bold;
+    text-color: rgb(68, 138, 255);
+}
+PropertyField:hover {
+    font-size: 30;
+    font-weight: bold;
+    text-color: rgb(255, 138, 255);
+}
